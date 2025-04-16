@@ -1,0 +1,40 @@
+# Node modules
+node_modules/
+
+# Next.js build
+.next/
+out/
+
+# Vite / CRA / React builds
+dist/
+build/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# System files
+.DS_Store
+
+# IDE/editor configs
+.vscode/
+.idea/
+
+# Environment files
+.env
+.env.*
+
+# If using VS Code or JetBrains IDEs
+.vscode/
+.idea/
+
+# If using Create React App, Vite, etc.
+dist/
+
+# macOS junk
+.DS_Store
+
+# Environment files (if not already handled)
+.env
+.env.*
